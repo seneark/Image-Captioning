@@ -13,3 +13,5 @@ sh==1.13.1
 six==1.15.0
 sockets==1.0.0
 Werkzeug==1.0.1
+numpy==1.18.1
+Pillow==7.0.0
